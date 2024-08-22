@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 1. clone exist remote repo
 2. create new file
 3. commit
+=======
+1. create conflic file c.txt
+2. commit 
+>>>>>>> 8bf5c67 (3 local commit repo 1)
